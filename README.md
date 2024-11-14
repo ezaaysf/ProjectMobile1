@@ -2,4 +2,5 @@
 
 Dzikry Eza Yusuf - 312310731 - TI.23.A2
 
-<img src="SB_Mobile1/sb.png" alt="STORYBOARD"> <br><br>
+`STORYBOARD` <br>
+<img src="SB_Mobile1/sb.png"
